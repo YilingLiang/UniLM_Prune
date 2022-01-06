@@ -1,0 +1,8 @@
+.idea
+**/__pycache__
+*.swp
+data/weibo/*
+data/weibodata/*
+output_dir
+bert-model-pt
+README.md
